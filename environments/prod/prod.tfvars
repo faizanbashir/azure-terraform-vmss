@@ -5,7 +5,7 @@ capacity            = 5
 
 default_tags = {
     environment = "prod"
-    developed_by = "Codification"
+    developed_by = "faizanbashir"
 }
 
 address_space = "10.134.0.0/16"
